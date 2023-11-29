@@ -2,8 +2,9 @@ A Tasty Sandwich
 
 '''
 bread
+Chicken, salad
 bread
 '''
 
 ## Todos:
-- [] add filling
+- [x] add filling
